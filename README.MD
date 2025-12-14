@@ -1,4 +1,4 @@
-itanic-complete-eda 🚢
+Titanic-complete-eda 🚢
 
 **Comprehensive End-to-End Titanic Survival Analysis Pipeline**
 
