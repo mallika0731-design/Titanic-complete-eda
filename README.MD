@@ -24,8 +24,6 @@ Automated Insights: Console output + PNG export
 
 text
 
-## 🖼️ Publication-Ready Visualizations
-![Analysis Dashboard](titanic_plots.png)
 
 ## 🚀 One-Command Execution
 python titanic_analysis.py
